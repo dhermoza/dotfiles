@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = denise.hermoza@pucp.pe
+	name = Denise Hermoza
